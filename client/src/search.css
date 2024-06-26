@@ -1,0 +1,11 @@
+@media (min-width: 640px) {
+    .sm\:border-b {
+      border-bottom-width: 1px;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .md\:border-r {
+      border-right-width: 1px;
+    }
+  }
