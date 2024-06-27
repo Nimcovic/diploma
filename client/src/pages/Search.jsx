@@ -132,9 +132,12 @@ export default function Search() {
               id='category'
             >
               <option value='uncategorized'>Без категории</option>
-              <option value='reactjs'>React.js</option>
-              <option value='nextjs'>Next.js</option>
-              <option value='javascript'>JavaScript</option>
+              <option value='seo'>SEO</option>
+              <option value='targeting'>Targeting</option>
+              <option value='adversiting'>Adversiting</option>
+              <option value='socials'>Socials</option>
+              <option value='googleads'>Google Ads</option>
+              <option value='marketing'>Marketing</option>
             </Select>
           </div>
           <Button type='submit' outline gradientDuoTone='purpleToPink'>
